@@ -52,7 +52,7 @@ Average Displayed Position (AVDP) vs. Clicked Displayed Positions (CDP) Plot:
 
 Average Impressed Position (AVGIP) Distribution Plot:
 <p align="center">
-  <img src = "Images/AVDP1-3-2.png" width=60%>
+  <img src = "Images/AVGIP1-3-2.png" width=60%>
 </p>
 
 The heavy-tailed frequency distribution of clicked displayed positions indicates significant variability or dispersion of data around the mean value.
